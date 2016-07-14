@@ -4,19 +4,6 @@ Python 3 transition guide
 Switching to Python 3 can seem like a daunting task, but this guide will
 provide some tips and resources to help make it more straightforward.
 
-Changes for vanilla Python to support both Python 2 and 3
----------------------------------------------------------
-Vanilla Python code (i.e., typical scientific code)
-does not need much modification to run under *both* Python 2 and Python 3.
-
-For these scripts, including the line below at the top
-of the script makes the script run under both Python 2 and Python 3.
-
-.. code-block:: python
-
-    from __future__ import print_function, division, absolute_import
-    
-The next section provides an explanation of what this provides.
 
 Changes you can make today to make the transition easier
 --------------------------------------------------------
