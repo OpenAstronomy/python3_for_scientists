@@ -1,12 +1,5 @@
-Python 3 transition guide
-=========================
-
-Switching to Python 3 can seem like a daunting task, but this guide will
-provide some tips and resources to help make it more straightforward.
-
-
 Writing Python 3 compatible code
----------------------------------------------
+================================
 Any new code you write can easily be Python 3 compatible! This is the first step
 you can take towards switching. For scientific scripts, being Python 3 combatible
 tends to imply Python 2 compatability.
